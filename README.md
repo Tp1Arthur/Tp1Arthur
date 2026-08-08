@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0f2818,70:163d22,100:0d1117&height=210&section=header&text=Arthur%20Ricardo&fontSize=38&fontColor=39FF14&fontAlignY=33&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20%C2%B7%20IFRO&descAlignY=55&descSize=14&descColor=8b949e&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1200&color=39FF14&center=true&vCenter=true&width=560&lines=Foco+em+An%C3%A1lise+de+Dados;C%23+%C2%B7+SQL+%C2%B7+Python+%C2%B7+Linux;Transformando+dados+em+solu%C3%A7%C3%B5es" alt="typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1200&color=39FF14&center=true&vCenter=true&width=560&lines=Foco+em+An%C3%A1lise+de+Dados;C%23+%C2%B7+SQL+%C2%B7+Linux;Transformando+dados+em+solu%C3%A7%C3%B5es" alt="typing"/>
 
 <br/>
 
