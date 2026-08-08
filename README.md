@@ -91,28 +91,11 @@ Tenho como objetivo desenvolver soluções efetivas, que gerem impacto real a cu
 
 <br/>
 
-<h3 align="center">⚙️&nbsp; habilidades</h3>
-
-<div align="center">
-
-<pre>
- Python      ████████░░  80%
- SQL         ███████░░░  70%
- C#          ██████░░░░  60%
- Power BI    ██████░░░░  60%
- Linux       ███████░░░  70%
- Git         ███████░░░  70%
-</pre>
-
-</div>
-
-<br/>
 
 <h3 align="center">🧰&nbsp; ferramentas</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39FF14"/>
@@ -127,20 +110,6 @@ Tenho como objetivo desenvolver soluções efetivas, que gerem impacto real a cu
 
 <br/>
 
-<h3 align="center">📊&nbsp; estatísticas</h3>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tp1Arthur&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tp1Arthur&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tp1Arthur&theme=dark&hide_border=true&background=0d1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" height="165"/>
-
-</div>
-
-<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
