@@ -1,97 +1,153 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:134e13&height=180&section=header&text=Arthur%20Ricardo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0f2818,70:163d22,100:0d1117&height=210&section=header&text=Arthur%20Ricardo&fontSize=38&fontColor=39FF14&fontAlignY=33&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20%C2%B7%20IFRO&descAlignY=55&descSize=14&descColor=8b949e&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2ECC71&center=true&vCenter=true&width=550&lines=Estudante+de+ADS+(IFRO);C%23+%7C+Linux+%7C+Data+Analysis;Transformando+dados+em+solu%C3%A7%C3%B5es" alt="typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1200&color=39FF14&center=true&vCenter=true&width=560&lines=Foco+em+An%C3%A1lise+de+Dados;C%23+%C2%B7+SQL+%C2%B7+Python+%C2%B7+Linux;Transformando+dados+em+solu%C3%A7%C3%B5es" alt="typing"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/arthur-ricardo-silva/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=2ECC71&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=0d1117"/>
 </a>
 <a href="https://github.com/Tp1Arthur">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=2ECC71&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=0d1117"/>
 </a>
 <a href="mailto:arthur.r.silva@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=2ECC71&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=0d1117"/>
 </a>
 
 </div>
 
 <br/>
 
-### 🔭 Sobre mim
-
-Graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Rondônia (IFRO), venho direcionando minha formação para a área de análise de dados, buscando unir base teórica sólida com aplicação prática no dia a dia.
-
-Ao longo desse processo, tenho aprendido a utilizar a inteligência artificial como uma aliada estratégica — uma ferramenta que potencializa produtividade e eficiência, sem substituir o raciocínio e o julgamento humano.
-
-Tenho como objetivo desenvolver soluções efetivas, que gerem impacto real a curto e longo prazo, mantendo o compromisso constante de aprender, refinar habilidades e evoluir profissionalmente a cada novo desafio.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+</p>
 
 <br/>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="38%" align="center" valign="middle">
 
-### 🛠️ Ferramentas
-
-
-
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python&logoColor=2ECC71)
-
-
-
-
-![C#](https://img.shields.io/badge/-C%23-0d1117?style=flat&logo=csharp&logoColor=2ECC71)
-
-
-
-
-![SQL](https://img.shields.io/badge/-SQL-0d1117?style=flat&logo=mysql&logoColor=2ECC71)
-
-
-
-
-![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat&logo=linux&logoColor=2ECC71)
-
-
-
-
-![Power BI](https://img.shields.io/badge/-Power%20BI-0d1117?style=flat&logo=powerbi&logoColor=2ECC71)
-
-
-
-
-![Excel](https://img.shields.io/badge/-Excel-0d1117?style=flat&logo=microsoft-excel&logoColor=2ECC71)
-
-
-
-
-![Git](https://img.shields.io/badge/-Git-0d1117?style=flat&logo=git&logoColor=2ECC71)
-
-
+<pre>
+      _nnnn_
+     dGGGGMMb
+    @p~qp~~qMb
+    M|@||@) M|
+    @,----.JM|
+   JS^\__/  qKL
+  dZP        qKRb
+ dZP          qKKb
+fZP            SMMb
+HZM            MMMM
+FqM            MMMM
+__| ".        |\dS"qML
+|    `.       | `' \Zq
+_)      \.___.,|     .'
+\____   )MMMMMP|   .'
+     `-'       `--'
+</pre>
 
 </td>
-<td width="50%" valign="top">
+<td width="62%" valign="middle">
 
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tp1Arthur&show_icons=true&theme=cobalt2&hide_border=true&bg_color=0d1117&title_color=2ECC71&icon_color=2ECC71&text_color=c9d1d9" width="100%"/>
+<pre>
+ arthur@ricardo
+ ─────────────────────────────────
+  OS         Estudante ADS — IFRO
+  Foco       Análise de Dados
+  Stack      C# · SQL · Python
+  Ambiente   Linux (daily driver)
+  Objetivo   Soluções que geram
+             impacto real
+  Status     Em constante evolução
+</pre>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<h3 align="center">
+  <img src="https://em-content.zobj.net/source/apple/354/page-facing-up_1f4c4.png" width="20"/>
+  &nbsp;sobre_mim
+</h3>
+
+<p align="center" style="max-width: 700px; margin: auto;">
+
+Graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Rondônia (IFRO), direcionando minha formação para a área de Análise de Dados — unindo base teórica sólida com aplicação prática no dia a dia.
+
+<br/><br/>
+
+Utilizo inteligência artificial como aliada estratégica: uma ferramenta que potencializa produtividade e eficiência, sem substituir o raciocínio e o julgamento humano.
+
+<br/><br/>
+
+Tenho como objetivo desenvolver soluções efetivas, que gerem impacto real a curto e longo prazo, mantendo o compromisso constante de aprender, refinar habilidades e evoluir profissionalmente a cada novo desafio.
+
+</p>
+
+<br/>
+
+<h3 align="center">⚙️&nbsp; habilidades</h3>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tp1Arthur&layout=compact&theme=cobalt2&hide_border=true&bg_color=0d1117&title_color=2ECC71&text_color=c9d1d9" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tp1Arthur&theme=highcontrast&hide_border=true&background=0d1117&stroke=2ECC71&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" height="150"/>
+<pre>
+ Python      ████████░░  80%
+ SQL         ███████░░░  70%
+ C#          ██████░░░░  60%
+ Power BI    ██████░░░░  60%
+ Linux       ███████░░░  70%
+ Git         ███████░░░  70%
+</pre>
 
 </div>
 
 <br/>
 
+<h3 align="center">🧰&nbsp; ferramentas</h3>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e13,100:0f2027&height=100&section=footer"/>
+
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39FF14"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logo=microsoft-excel&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39FF14"/>
+
+</div>
+
+<br/>
+
+<h3 align="center">📊&nbsp; estatísticas</h3>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tp1Arthur&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tp1Arthur&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tp1Arthur&theme=dark&hide_border=true&background=0d1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" height="165"/>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+</p>
+
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:163d22,70:0f2818,100:0d1117&height=110&section=footer"/>
+  <sub><code>arthur@ricardo:~$ █</code></sub>
 </div>
