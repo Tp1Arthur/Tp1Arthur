@@ -1,122 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0f2818,70:163d22,100:0d1117&height=210&section=header&text=Arthur%20Ricardo&fontSize=38&fontColor=39FF14&fontAlignY=33&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20%C2%B7%20IFRO&descAlignY=55&descSize=14&descColor=8b949e&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a1a2e&height=200&section=header&text=Arthur%20Ricardo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&pause=1200&color=39FF14&center=true&vCenter=true&width=560&lines=Foco+em+An%C3%A1lise+de+Dados;C%23+%C2%B7+SQL+%C2%B7+Linux;Transformando+dados+em+solu%C3%A7%C3%B5es" alt="typing"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/arthur-ricardo-silva/">
-  <img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=0d1117"/>
-</a>
-<a href="https://github.com/Tp1Arthur">
-  <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=0d1117"/>
+<a href="https://www.linkedin.com/in/arthur-ricardo-silva">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:arthur.r.silva@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-</p>
+### `whoami`
 
-<br/>
+```txt
+🎓 Discente de ADS no IFRO, com foco em Análise de Dados
+📊 Transformando dados em soluções concretas e com impacto real
+🤖 Vejo IA como ferramenta que potencializa — não substitui — o raciocínio humano
+🌱 Sempre em formação, sempre em movimento
+```
 
-<table width="100%">
-<tr>
-<td width="38%" align="center" valign="middle">
+<br>
 
-<pre>
-      _nnnn_
-     dGGGGMMb
-    @p~qp~~qMb
-    M|@||@) M|
-    @,----.JM|
-   JS^\__/  qKL
-  dZP        qKRb
- dZP          qKKb
-fZP            SMMb
-HZM            MMMM
-FqM            MMMM
-__| ".        |\dS"qML
-|    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMP|   .'
-     `-'       `--'
-</pre>
-
-</td>
-<td width="62%" valign="middle">
-
-<pre>
- arthur@ricardo
- ─────────────────────────────────
-  OS         Estudante ADS — IFRO
-  Foco       Análise de Dados
-  Stack      C# · SQL · Python
-  Ambiente   Linux (daily driver)
-  Objetivo   Soluções que geram
-             impacto real
-  Status     Em constante evolução
-</pre>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<h3 align="center">
-  <img src="https://em-content.zobj.net/source/apple/354/page-facing-up_1f4c4.png" width="20"/>
-  &nbsp;sobre_mim
-</h3>
-
-<p align="center" style="max-width: 700px; margin: auto;">
-
-Graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Rondônia (IFRO), direcionando minha formação para a área de Análise de Dados — unindo base teórica sólida com aplicação prática no dia a dia.
-
-<br/><br/>
-
-Utilizo inteligência artificial como aliada estratégica: uma ferramenta que potencializa produtividade e eficiência, sem substituir o raciocínio e o julgamento humano.
-
-<br/><br/>
-
-Tenho como objetivo desenvolver soluções efetivas, que gerem impacto real a curto e longo prazo, mantendo o compromisso constante de aprender, refinar habilidades e evoluir profissionalmente a cada novo desafio.
-
-</p>
-
-<br/>
-
-
-<h3 align="center">🧰&nbsp; ferramentas</h3>
+### Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39FF14"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logo=microsoft-excel&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39FF14"/>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-<br/>
+<br>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-</p>
+### GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:163d22,70:0f2818,100:0d1117&height=110&section=footer"/>
-  <sub><code>arthur@ricardo:~$ █</code></sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tp1Arthur&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tp1Arthur&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" width="46%"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tp1Arthur&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="70%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Tp1Arthur/Tp1Arthur/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Aberto a oportunidades em Análise de Dados — remoto ou híbrido</sub>
 </div>
