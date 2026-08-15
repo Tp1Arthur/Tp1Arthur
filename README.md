@@ -60,16 +60,16 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no IFRO, com foco em
 
 ### 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=cs,linux,figma,git,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cs,linux,git,github,vscode,figma,mysql,postgres,r&theme=dark"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/IA_aplicada-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
+
 
 <br><br>
 
