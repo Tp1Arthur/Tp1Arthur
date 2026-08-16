@@ -11,8 +11,6 @@
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/Tp1Arthur?style=for-the-badge&color=58a6ff&label=Seguidores&logo=github&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=Tp1Arthur&label=Visitas&color=58a6ff&style=for-the-badge"/>
 
 </div>
 
