@@ -1,279 +1,238 @@
-<div align="center">
+<div align="center"> <img src="./profile-banner.gif" width="100%" alt="Banner animado do perfil Arthur Ricardo com terminal verde e cobrinha comendo quadrados de contribuição"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=860&height=45&lines=%24+whoami;Transformando+dados+em+decis%C3%B5es;ADS+%40+IFRO;Excel+%7C+SQL+%7C+Power+BI+%7C+C%23+%7C+Linux" alt="Terminal animation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=270&section=header&text=ARTHUR%20RICARDO&fontSize=56&fontColor=00FF41&animation=fadeIn&fontAlignY=36&desc=DATA%20ANALYST%20%2F%20SOFTWARE%20DEVELOPER&descSize=18&descAlignY=54&descColor=39FF14&color=0:000000,35:0A0F0A,70:0D1F0D,100:052E05"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00FF41&center=true&vCenter=true&width=850&height=45&lines=%24+whoami;Transformando+dados+em+decis%C3%B5es;An%C3%A1lise+e+Desenvolvimento+de+Sistemas+%40+IFRO;Excel+%7C+SQL+%7C+Power+BI+%7C+C%23+%7C+Linux"/>
 
-<br>
 
-<a href="https://github.com/Tp1Arthur">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
-</a>
-<a href="https://www.linkedin.com/in/arthur-ricardo-silva">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
-</a>
-<a href="mailto:arthur.r.silva@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
-</a>
 
-<br><br>
+<a href="https://github.com/Tp1Arthur"><img src="https://img.shields.io/badge/GitHub-050805?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/arthur-ricardo-silva"><img src="https://img.shields.io/badge/LinkedIn-050805?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/></a>
+<a href="mailto:arthur.r.silva@gmail.com"><img src="https://img.shields.io/badge/Email-050805?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=Tp1Arthur&style=flat-square&color=00FF41&label=PROFILE+VIEWS"/>
+
+
+
+
+<img src="https://komarev.com/ghpvc/?username=Tp1Arthur&style=flat-square&color=00FF41&label=PROFILE+VIEWS" alt="Profile views"/>
+
+
+
+
+
+<code>dados → análise → decisão</code>
 
 </div>
 
 ---
 
+## <a name="sobre"></a><code>01 / sobre_mim.sh</code>
+
 <div align="center">
 
-## `> sobre_mim.sh`
+> **Analista de dados em formação, desenvolvedor por prática e orientado a resultados.**
 
 </div>
 
-<table align="center">
-<tr>
-<td width="60%" valign="top">
+Sou estudante de **Análise e Desenvolvimento de Sistemas no IFRO**, com foco em **Análise de Dados**, Business Intelligence e desenvolvimento de soluções práticas.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas no IFRO**, com foco em **Análise de Dados**.
+Transformo dados brutos em informação útil por meio de dashboards, consultas, planilhas estruturadas e automações. Uso a **IA como ferramenta de produtividade**, mantendo o entendimento técnico e o raciocínio analítico no centro de cada entrega.
 
-Gosto de transformar dados brutos em informação útil — seja construindo um dashboard, escrevendo uma query ou automatizando uma planilha. Vejo a **IA como uma ferramenta que potencializa o raciocínio analítico**, não como substituta dele: uso para acelerar entregas, nunca para pular o entendimento dos dados.
+Meu objetivo é atuar internacionalmente, em equipes remotas, conectando análise, tecnologia e comunicação para apoiar decisões melhores.
 
-Estou construindo minha base hoje (Excel, SQL, Power BI, estatística) com um objetivo claro: **atuar internacionalmente**, em empresas remotas, com foco em dados.
-
-</td>
-<td width="40%" valign="top">
-
-```text
-$ cat perfil.txt
-
-FORMAÇÃO
-└── ADS @ IFRO
-    (Rondônia)
-
-FOCO
-├── Análise de Dados
-├── Business Intelligence
-└── Desenvolvimento de Software
-
-OBJETIVO
-├── Carreira internacional
-├── Trabalho remoto
-└── Inglês fluente
-
-DISPONIBILIDADE
-└── Remoto
+```
+┌─────────────────────────────────────────────────────────┐
+│ $ cat perfil.txt                                        │
+├─────────────────────────────────────────────────────────┤
+│ FORMAÇÃO        ADS @ IFRO · Rondônia                   │
+│ FOCO            Análise de Dados                        │
+│                 Business Intelligence                   │
+│                 Desenvolvimento de Software            │
+│ OBJETIVO        Carreira internacional                  │
+│                 Trabalho remoto                         │
+│ DISPONIBILIDADE Remoto                                  │
+└─────────────────────────────────────────────────────────┘
 ```
 
-</td>
-</tr>
-</table>
+## <a name="stack"></a><code>02 / stack_de_dados --list</code>
 
----
+### Ferramentas principais
 
-<div align="center">
+<div align="center"> <img src="https://img.shields.io/badge/Excel-071407?style=for-the-badge&logo=microsoftexcel&logoColor=00FF41" alt="Excel"/>
+<img src="https://img.shields.io/badge/Power_BI-071407?style=for-the-badge&logo=powerbi&logoColor=00FF41" alt="Power BI"/>
+<img src="https://img.shields.io/badge/SQL-071407?style=for-the-badge&logo=mysql&logoColor=00FF41" alt="SQL"/>
+<img src="https://img.shields.io/badge/R-071407?style=for-the-badge&logo=r&logoColor=00FF41" alt="R"/>
+<img src="https://img.shields.io/badge/C%23-071407?style=for-the-badge&logo=csharp&logoColor=00FF41" alt="C sharp"/>
+<img src="https://img.shields.io/badge/.NET-071407?style=for-the-badge&logo=dotnet&logoColor=00FF41" alt=".NET"/>
+<img src="https://img.shields.io/badge/Linux-071407?style=for-the-badge&logo=linux&logoColor=00FF41" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-071407?style=for-the-badge&logo=git&logoColor=00FF41" alt="Git"/> </div>
 
-## `> stack_de_dados --list`
+### Nível atual
 
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=powerbi&logoColor=00FF41"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41"/>
-
-<br><br>
-
-### Suporte a Desenvolvimento
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode&theme=dark"/>
-
-<br><br>
-
-### Ambiente
-
-<img src="https://skillicons.dev/icons?i=linux,figma&theme=dark"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `> pipeline_de_aprendizado.log`
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🟢 Extraindo valor hoje
-
-| Área | Tópicos |
-| :--- | :--- |
-| **Excel** | Tabelas dinâmicas, Power Query, PROCV/PROCX |
-| **SQL** | Consultas, joins, agregações |
-| **Power BI** | Modelagem, DAX, dashboards |
-| **Estatística** | Fundamentos aplicados a dados |
-
-</td>
-<td width="50%" valign="top">
-
-### ⚫ Próxima camada
-
-| Área | Tópicos |
-| :--- | :--- |
-| **Python** | Python para análise de dados |
-| **Pandas** | Manipulação e limpeza de dados |
-| **Inglês** | Fluência para atuação internacional |
-| **IA aplicada** | Fundamentos e uso prático em dados |
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `> ls projetos/`
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🗺️ GitHub Roadmap
-
-<a href="https://github.com/Tp1Arthur/github-roadmap">
-<img src="https://img.shields.io/github/languages/top/Tp1Arthur/github-roadmap?style=flat-square&color=00FF41&labelColor=000000"/>
-<img src="https://img.shields.io/github/stars/Tp1Arthur/github-roadmap?style=flat-square&color=00FF41&labelColor=000000"/>
-</a>
-
-</div>
-
-<br>
-
-Roadmap pessoal para organização de estudos, tecnologias e evolução no desenvolvimento.
-
-**Tecnologias:** `GitHub` · `Markdown`
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 💱 Conversor de Moedas
-
-<a href="https://github.com/Tp1Arthur/Conversor-moedas-csharp">
-<img src="https://img.shields.io/github/languages/top/Tp1Arthur/Conversor-moedas-csharp?style=flat-square&color=00FF41&labelColor=000000"/>
-<img src="https://img.shields.io/github/stars/Tp1Arthur/Conversor-moedas-csharp?style=flat-square&color=00FF41&labelColor=000000"/>
-</a>
-
-</div>
-
-<br>
-
-Aplicação em C# para prática de lógica de programação, operações matemáticas e estruturas condicionais.
-
-**Tecnologias:** `C#` · `.NET`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-<div align="center">
-
-### 🤖 Engenharia de Prompts com NotebookLM
-
-<a href="https://github.com/Tp1Arthur/notebooklm-engenharia-de-prompts">
-<img src="https://img.shields.io/github/languages/top/Tp1Arthur/notebooklm-engenharia-de-prompts?style=flat-square&color=00FF41&labelColor=000000"/>
-<img src="https://img.shields.io/github/stars/Tp1Arthur/notebooklm-engenharia-de-prompts?style=flat-square&color=00FF41&labelColor=000000"/>
-</a>
-
-<br><br>
-
-Coleção de técnicas e experimentos sobre engenharia de prompts e uso de IA para pesquisa e análise de dados.
-
-**Tecnologias:** `AI` · `Prompt Engineering` · `NotebookLM`
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `> tree trilha_de_dados_2026/`
-
-</div>
-
-```text
-2026
-│
-├── Fundamentos de Análise
-│   ├── Excel (avançado)
-│   ├── SQL
-│   └── Estatística aplicada
-│
-├── Visualização & BI
-│   └── Power BI + DAX
-│
-├── Suporte técnico
-│   ├── C# / .NET
-│   └── Git & GitHub
-│
-├── Idioma
-│   └── Inglês (atuação internacional)
-│
-└── Próxima camada
-    ├── Python
-    ├── Pandas
-    └── IA aplicada a dados
+```
+EXCEL        ████████████████████  avançado
+GIT/GITHUB   ████████████████░░░░  confiante
+C# / .NET    ██████████████░░░░░░  intermediário
+POWER BI     ████████████░░░░░░░░  em evolução
+SQL          ██████████░░░░░░░░░░  em evolução
 ```
 
+## <a name="projetos"></a><code>03 / ls projetos/ --featured</code>
+
+### Projetos selecionados
+
+<details open>
+<summary><b>Dados, análise e modelagem</b></summary>   
+
+
+#### [Análise de Inflação — IPCA](https://github.com/Tp1Arthur/analise-inflacao-br)
+
+Análise da inflação brasileira em **R**, com separação entre dados brutos, dados processados e scripts. Projeto principal do portfólio em análise de dados.
+
+`R` `RStudio` `Estatística`
+
 ---
 
-<div align="center">
+#### [TP1 Invest](https://github.com/Tp1Arthur/simulador-fiis-excel)
 
-## `> github_stats --render`
+Simulador de investimento mensal em FIIs, com diferentes perfis de risco e cálculos de rendimento e dividendos desenvolvidos no Excel.
 
-<img src="https://raw.githubusercontent.com/Tp1Arthur/Tp1Arthur/output/github-contribution-grid-snake-dark.svg"/>
+`Excel` `Modelagem financeira`
+
+---
+
+#### [MonBag App](https://github.com/Tp1Arthur/projeto_monbag_excel)
+
+Planilha para organização de dados da declaração de Imposto de Renda, com validações, navegação entre abas e foco em usabilidade.
+
+`Excel` `Validação de dados`
+
+---
+
+#### [Cases de Análise de Dados](https://github.com/Tp1Arthur/analise-de-dados-cases)
+
+Coleção de estudos de caso para praticar análise de dados em diferentes contextos e manter uma rotina contínua de aprendizado.
+
+`Excel` `SQL` `Lógica de dados`
+
+</details> <details>
+<summary><b>IA, desenvolvimento e universidade</b></summary>   
+
+
+#### [GitHub Roadmap](https://github.com/Tp1Arthur/github-roadmap)
+
+Roadmap pessoal para organizar estudos, tecnologias e evolução no desenvolvimento de software.
+
+`GitHub` `Markdown`
+
+---
+
+#### [Engenharia de Prompts com NotebookLM](https://github.com/Tp1Arthur/notebooklm-engenharia-de-prompts)
+
+Técnicas e experimentos de engenharia de prompts usando IA generativa como apoio para estudo e pesquisa.
+
+`IA` `Prompt Engineering`
+
+---
+
+#### [Case Lanches Dubaum](https://github.com/Tp1Arthur/lanches-dubaum-case-study)
+
+Estudo de caso acadêmico sobre análise de negócio e dados, desenvolvido durante a graduação em ADS.
+
+`Análise de dados`
+
+---
+
+#### [Sistema de Gestão Hoteleira](https://github.com/Tp1Arthur/Projeto_Hotel_Paacas_Novos)
+
+Levantamento de requisitos para um sistema de gestão hoteleira, com mais de 170 requisitos funcionais em 15 domínios.
+
+`Engenharia de Requisitos`
+
+</details>
+
+## Certificações
+
+<div align="center"> <a href="https://verify.skilljar.com/c/5os7ccd92msk">
+<img src="https://img.shields.io/badge/AI_Fluency-Framework_%26_Foundations-071407?style=for-the-badge&logo=anthropic&logoColor=00FF41" alt="AI Fluency certificate"/>
+</a>
+<img src="https://img.shields.io/badge/Excel-IA_%26_Claude-071407?style=for-the-badge&logo=microsoftexcel&logoColor=00FF41" alt="Excel certificate"/>
+
+
+
+
+
+<sub>DIO / Santander · Anthropic · 2026</sub>
 
 </div>
 
----
+## <a name="aprendizado"></a><code>04 / pipeline_de_aprendizado.log</code>
 
-<div align="center">
+```
+[■■■■■■■■■■■■■■■■■■■■]  camada atual
 
-## `> contato --show`
+EXCEL        Tabelas dinâmicas · Power Query · PROCV/PROCX
+SQL          Consultas · joins · agregações
+POWER BI     Modelagem · DAX · dashboards
+ESTATÍSTICA  Fundamentos aplicados a dados
 
-<br>
+[□□□□□□□□□□□□□□□]  próxima camada
 
-<a href="https://www.linkedin.com/in/arthur-ricardo-silva">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
-</a>
-<a href="mailto:arthur.r.silva@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
-</a>
+PYTHON       Python para análise de dados
+PANDAS       Manipulação e limpeza de dados
+INGLÊS       Fluência para atuação internacional
+IA APLICADA  Produtividade e automação em dados
+```
 
-<br><br>
+## Princípios de trabalho
 
-<sub>Remoto · Aberto a oportunidades em Análise de Dados</sub>
+> **Aprender fazendo. Documentar o processo. Evoluir em camadas.**
+
+- Priorizo projetos práticos em vez de teoria isolada.
+
+- Documento decisões e aprendizados no GitHub.
+
+- Uso IA para acelerar tarefas, sem terceirizar o entendimento.
+
+- Consolido uma ferramenta antes de adicionar a próxima.
+
+## <a name="estatisticas"></a><code>05 / github_stats --render</code>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tp1Arthur&show_icons=true&theme=dark&hide_border=true&bg_color=071407&title_color=00FF41&icon_color=00FF41&text_color=B7FFB7" height="165" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tp1Arthur&layout=compact&theme=dark&hide_border=true&bg_color=071407&title_color=00FF41&text_color=B7FFB7" height="165" alt="Top languages"/>
+
+
+
+
+
+<img src="https://streak-stats.demolab.com?user=Tp1Arthur&theme=dark&hide_border=true&background=071407&ring=00FF41&fire=39FF14&currStreakLabel=00FF41" alt="GitHub streak"/>
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/Tp1Arthur/Tp1Arthur/output/github-contribution-grid-snake-dark.svg" width="92%" alt="Cobrinha verde comendo os quadrados de contribuição do GitHub"/>
+
+
+<code>contribution_grid --eat-green-squares</code>
 
 </div>
 
-<br>
+## <a name="contato"></a><code>06 / contato --show</code>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:052E05,35:0D1F0D,70:0A0F0A,100:000000"/>
+
+**Aberto a oportunidades remotas em Análise de Dados, Business Intelligence e desenvolvimento.**
+
+<a href="https://www.linkedin.com/in/arthur-ricardo-silva"><img src="https://img.shields.io/badge/LinkedIn-050805?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/></a>
+<a href="mailto:arthur.r.silva@gmail.com"><img src="https://img.shields.io/badge/Email-050805?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/></a>
+
+
+
+
+
+<sub><code>status: disponível para novos desafios</code></sub>
+
+</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:064006,35:0B240B,70:061006,100:000000" width="100%" alt="Footer"/>
 </div>
