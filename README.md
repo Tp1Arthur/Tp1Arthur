@@ -197,12 +197,6 @@ IA APLICADA  Produtividade e automação em dados
 
 ## <a name="estatisticas"></a><code>05 / github_stats --render</code>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tp1Arthur&show_icons=true&theme=dark&hide_border=true&bg_color=071407&title_color=00FF41&icon_color=00FF41&text_color=B7FFB7" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tp1Arthur&layout=compact&theme=dark&hide_border=true&bg_color=071407&title_color=00FF41&text_color=B7FFB7" height="165" alt="Top languages"/>
-
-
-
-
 
 <img src="https://streak-stats.demolab.com?user=Tp1Arthur&theme=dark&hide_border=true&background=071407&ring=00FF41&fire=39FF14&currStreakLabel=00FF41" alt="GitHub streak"/>
 
